@@ -1,4 +1,5 @@
 # Bricks_Breakout.github.io
 
 
-![image](https://user-images.githubusercontent.com/91779048/188359610-6d0a0ce5-beab-4948-97c3-7bb4d0d6d03a.png)
+![Brickbreaker](https://user-images.githubusercontent.com/91779048/188359929-6ac4c691-58fc-47da-88c3-09274c00932f.png)
+
